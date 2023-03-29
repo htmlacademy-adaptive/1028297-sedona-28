@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Артем Лаптев](https://up.htmlacademy.ru/adaptive/28/user/1028297).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Медведев](https://htmlacademy.ru/profile/exteep).
 
 ---
 
